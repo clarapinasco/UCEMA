@@ -1,0 +1,4 @@
+1) columnas de total sessions y time on screen
+2) usuarios que reservarn mas autos
+3) orden del notebook
+4) INTERPRETAR que los eventos corrsponden a 0
